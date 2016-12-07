@@ -1,5 +1,5 @@
 # home
 First GitHub
 This is my first GitHub.
-### date
+### Date
 Remember today 7th December.
