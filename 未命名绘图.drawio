@@ -1,78 +1,150 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T14:45:53.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.4" etag="CqzD_Wi8NTZ3CgXLN-Qw" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T17:12:08.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="G_0OkPPudFHXp8xZZlWm" version="24.5.4" type="github">
   <diagram name="第 1 页" id="bBCR062GHMLOygfectNg">
-    <mxGraphModel>
+    <mxGraphModel dx="2665" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="窗帘如何选购" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="2" value="窗帘如何选购" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry width="111" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="确定需求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="确定需求" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="15" y="161" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="选择布料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4" value="选择布料" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="161" y="161" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="选择款式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5" value="选择款式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="292" y="161" width="80" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="测量尺寸" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6" value="测量尺寸" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="421" y="161" width="80" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="选择安装方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7" value="选择安装方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="551" y="161" width="112" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="确认预算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8" value="确认预算" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="713" y="161" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="购买" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9" value="购买" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="844" y="161" width="48" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="安装" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="10" value="安装" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="941" y="161" width="48" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="11" value="完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1039" y="161" width="48" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" edge="1" parent="1" source="3" target="4">
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" parent="1" source="3" target="4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.51;" edge="1" parent="1" source="4" target="5">
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.51;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.01;entryY=0.51;" edge="1" parent="1" source="5" target="6">
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.01;entryY=0.51;" parent="1" source="5" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" edge="1" parent="1" source="6" target="7">
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" parent="1" source="6" target="7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" edge="1" parent="1" source="7" target="8">
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" parent="1" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.51;" edge="1" parent="1" source="8" target="9">
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=-0.01;entryY=0.51;" parent="1" source="8" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.01;entryY=0.51;" edge="1" parent="1" source="9" target="10">
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.51;entryX=0.01;entryY=0.51;" parent="1" source="9" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" edge="1" parent="1" source="10" target="11">
+        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;" parent="1" source="10" target="11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;想三选一&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-20" value="估算大致有15米" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-21" value="样品优先选择" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-22" value="价格估算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-23" value="预算4000内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-24" value="电动窗帘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-25" value="材料需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-26" value="棉麻/雪尼尔/高精密" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-27" value="2倍褶皱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-28" value="1688" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-29" value="高温定形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-30" value="幻影纱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-31" value="物理需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-32" value="卧室/电竞房遮光" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-33" value="客厅想要梦幻帘电动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-35" value="手感好" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-36" value="颜色.莫兰迪系列的饱和度低一点的" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-37" value="定高买宽" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-38" value="静音滑轨" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-39" value="离地面2公分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-40" value="挂钩可以调节" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-41" value="绍兴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-43" value="抖音" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qU0rzLfoV-CdU76uyk8i-44" value="淘宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
